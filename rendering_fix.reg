@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"FontSmoothing"="2"
+"FontSmoothingGamma"=dword:000003e8
+"FontSmoothingContrast"=dword:00000898
+"FontSmoothingOrientation"=dword:00000000
+"FontSmoothingType"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Avalon.Graphics\DISPLAY1]
+"ClearTypeLevel"=dword:00000000
+"EnhancedContrastLevel"=dword:00000032
+"GammaLevel"=dword:0000076c
+"GrayscaleEnhancedContrastLevel"=dword:00000064
+"PixelStructure"=dword:00000001
+"TextContrastLevel"=dword:00000006
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Avalon.Graphics\DISPLAY1]
+"GammaLevel"=dword:00000708
